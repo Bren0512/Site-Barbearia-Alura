@@ -8,8 +8,19 @@
 
 <p>Projeto desenvolvido durante os cursos HTML5 & CSS3 da Alura . No site Barbearia Alura encontrará formulário, imagens, vídeo externo, logotipo, descrição do site, mapa de sua localização. Paginas: Home, Produtos e Contatos</p>
 
-## ⛏ Languagen 
+## ⛏ Tools
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference)
 
 
+## ♻ How contribute
+
+```bash
+# clone o projeto
+$ clone https://github.com/Bren0512/Barbearia-Alura.git
+````
+
+```bash
+# clone o projeto
+$ clone https://github.com/Bren0512/Barbearia-Alura.git
+````
