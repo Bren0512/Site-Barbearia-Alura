@@ -1,7 +1,10 @@
-<h1 align="center">Site Barbearia Alura</h1>
-
 <div align="center">
 <img width="10%" src="Projeto_site_barbearia_Alura/marca.png"/>
+</div>
+
+<div align="center">
+<h1>Barbearia Alura</h1>
+<img src="Projeto_site_barbearia_Alura/gif/gif_barbearia_alura.gif"/>
 </div>
 
 ## 📕 About
