@@ -12,15 +12,9 @@
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference)
 
-
 ## ♻ How contribute
 
 ```bash
 # clone o projeto
-$ clone https://github.com/Bren0512/Barbearia-Alura.git
-````
-
-```bash
-# clone o projeto
-$ clone https://github.com/Bren0512/Barbearia-Alura.git
+$ git clone https://github.com/Bren0512/Barbearia-Alura.git
 ````
