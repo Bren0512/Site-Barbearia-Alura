@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1>Barbearia Alura</h1>
+<h1>Site Barbearia Alura</h1>
 <img src="Projeto_site_barbearia_Alura/gif/gif_barbearia_alura.gif"/>
 </div>
 
